@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gusen1989
-- 👀 I’m interested in ...qa
+- 👀 I’m interested in  QA .
 - 🌱 I’m currently learning  wadim ksendzov
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on  
 - 📫 How to reach me  a  arunovarsen@gmail.com
 
 <!---
