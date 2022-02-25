@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gusen1989
+- 👋 Hi, I’m @gusen@
 - 👀 I’m interested in  QA .
 - 🌱 I’m currently learning  курс по #QA  Vadima ksendzov
 - 💞️ I’m looking to collaborate on 
