@@ -19,3 +19,10 @@
    <a href="https://github.com/gusen1989/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusen1989&layout=compact"/></a>
 </p>
+
+
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/gusen1989/github-profile-views-counter">
+       <img width="175px" src="https://linkedin.com/ghpvc/?username=gusen1989&color=258b62230">
+   </a>
+</div>
