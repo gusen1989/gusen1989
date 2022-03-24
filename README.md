@@ -21,7 +21,7 @@
 </p>
 
 
-<div align="center" style="margin: 40px 0">
+<div align="center" style="blue-green: 40px 0">
    <a href="https://github.com/gusen1989/github-profile-views-counter">
        <img width="175px" src="https://linkedin.com/ghpvc/?username=gusen1989&color=DE002D">
    </a>
