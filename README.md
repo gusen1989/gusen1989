@@ -8,4 +8,4 @@
 
 
 
-                    #linkedin.com/in/арсен-арунов-258b62230
+                    &linkedin.com/in/арсен-арунов-258b62230
