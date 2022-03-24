@@ -9,3 +9,13 @@
 
 
                     &linkedin.com/in/арсен-арунов-258b62230
+
+
+
+
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=gusen1989&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=gusen1989&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/gusen1989/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusen1989&layout=compact"/></a>
+</p>
