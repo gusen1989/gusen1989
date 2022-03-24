@@ -26,3 +26,6 @@
        <img width="175px" src="https://linkedin.com/ghpvc/?username=gusen1989&color=DE002D">
    </a>
 </div>
+
+
+https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
