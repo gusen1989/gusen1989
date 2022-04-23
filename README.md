@@ -10,10 +10,3 @@
 
 
 
-  },
-  highcontrast: {
-    title_color: "e7f216",
-    icon_color: "00ffff",
-    text_color: "fff",
-    bg_color: "000",
-  },
