@@ -10,17 +10,10 @@
 
 
 
-
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=gusen1989&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=gusen1989&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/gusen1989/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusen1989&layout=compact"/></a>
-</p>
-
-
-<div align="center" style="blue-green: 40px 0">
-   <a href="https://github.com/gusen1989/github-profile-views-counter">
-       <img width="175px" src="https://linkedin.com/ghpvc/?username=gusen1989&color=DE002D">
-   </a>
-</div>
+  },
+  highcontrast: {
+    title_color: "e7f216",
+    icon_color: "00ffff",
+    text_color: "fff",
+    bg_color: "000",
+  },
