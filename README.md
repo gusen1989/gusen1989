@@ -10,3 +10,5 @@
 
 
 ?theme=THEME_NAME
+
+![Gusen's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusen1989&show_icons=true&theme=radical)
