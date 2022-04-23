@@ -14,9 +14,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusen1989&layout=compact)](https://github.com/gusen1989/github-readme-stats)
 
-< a  href =" https://github.com/gusen1989/github-readme-stats " > 
-  < img  align =" center " src =" https://github-readme-stats.vercel.app/api/pin/ ?username=gusen1989&repo=github-readme-stats " />
- </ a > 
-< a  href =" https://github.com/gusen1989/convoychat " > 
-  < img  align =" center " src =" https://github -readme-stats.vercel.app/api/pin/?username=gusen1989&repo=convoychat " />
- </ a>
