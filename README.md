@@ -16,4 +16,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusen1989&layout=compact)](https://github.com/gusen1989/github-readme-stats)
 
-<img src="путь к файлу" alt="альтернативный текст">
+
