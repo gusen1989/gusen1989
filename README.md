@@ -10,6 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA+student)](https://git.io/typing-svg)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Gusen's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusen1989&show_icons=true&theme=radical)
 
